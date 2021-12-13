@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/batu.png" />
+        <ignore path="src/main/res/drawable/close.png" />
+        <ignore path="src/main/res/drawable/gunting.png" />
+        <ignore path="src/main/res/drawable/kertas.png" />
+        <ignore path="src/main/res/drawable/refresh.png" />
+        <ignore path="src/main/res/drawable/splash_screen1.png" />
+        <ignore path="src/main/res/drawable/splash_screen2.png" />
+    </issue>
+</lint>
